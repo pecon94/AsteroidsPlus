@@ -1,0 +1,23 @@
+This document states the game's requirements, from general to specific.
+
+1. The game must use 3D Objects. 
+  1.1 The objects must be file defined.
+  1.2 The objects must rotate.
+  1.3 The objects must translate. 
+  1.4 The objects must have colorized faces. 
+2. The game must have a player (space ship). 
+  2.1 The player must have weapons. 
+  2.2 The player must have lives.
+3. The game must have enemies (asteroids, aliens? ).
+  3.1 The enemies must be asteroids.
+    3.1.1 The asteroids must have a health limit.
+    3.1.2 The asteroids must break into smaller pieces. 
+    3.1.3 The asteroids must have a variable size. 
+    3.1.4 The asteroids must me in constant movement. 
+  3.2 The enemies must be aliens.
+    3.2.1 The aliens must have weapons
+    3.2.2 The aliens must shoot the player
+    3.2.3 The aliens must be able to flee the scene
+4. The game must have multiple levels. 
+5. The game must keep track of points. 
+6. The game must have sound effects. 
